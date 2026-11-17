@@ -28,7 +28,6 @@ Execute the program using runserver command.
 
 ## PROGRAM
 ```
-
 <html>
 <head>
     <title>Slot Time Table</title>
@@ -179,8 +178,6 @@ Execute the program using runserver command.
 
 </body>
 </html>
-```
-
 ```
 ## OUTPUT
 ![alt text](<aravindhslot/Screenshot (11).png>)
